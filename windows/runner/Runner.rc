@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "my.domain" "\0"
-            VALUE "FileDescription", "bundleSuffix" "\0"
+            VALUE "CompanyName", "icodeforyou.com" "\0"
+            VALUE "FileDescription", "html_rich_text_widget" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bundleSuffix" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 my.domain. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bundleSuffix.exe" "\0"
-            VALUE "ProductName", "bundleSuffix" "\0"
+            VALUE "InternalName", "html_rich_text_widget" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 icodeforyou.com. All rights reserved." "\0"
+            VALUE "OriginalFilename", "html_rich_text_widget.exe" "\0"
+            VALUE "ProductName", "html_rich_text_widget" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,6 +1,6 @@
 {
-    "name": "bundleSuffix",
-    "short_name": "bundleSuffix",
+    "name": "html_rich_text_widget",
+    "short_name": "html_rich_text_widget",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
